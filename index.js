@@ -144,7 +144,7 @@ window.addEventListener('mouseup', e => {
                 legend: {
                     display: false,
                 },
-                responsive: false,
+                responsive: true,
                 scales: {
                     xAxes: [{
                         ticks: {
